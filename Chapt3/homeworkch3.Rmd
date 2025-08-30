@@ -1,0 +1,17 @@
+---
+title: "chpt3"
+author: "Alex Musiime"
+date: "2025-08-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(rethinking)
+data("homeworkch3")
+
+```
+
